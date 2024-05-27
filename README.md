@@ -33,7 +33,7 @@ To run this project, you will need Python 3.11 or later. Follow these steps to s
    git clone https://github.com/yourusername/Question-Order-Bias-in-LLMs.git
    cd Question-Order-Bias-in-LLMs
    
-2. *Launch and run the jupyter notebook:**
+2. **Launch and run the jupyter notebook:**
 jupyter notebook
 
 
