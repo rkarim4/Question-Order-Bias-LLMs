@@ -31,7 +31,7 @@ To run this project, you will need Python 3.11 or later. Follow these steps to s
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/Question-Order-Bias-in-LLMs.git
+   git clone https://github.com/rkarim4/Question-Order-Bias-in-LLMs.git
    cd Question-Order-Bias-in-LLMs
 2. **Download the llama2-13b-chat model:**
 Please download the llama-2-13b-chat.Q4_K_M.gguf model (https://huggingface.co/TheBloke/Llama-2-13B-GGUF/blob/main/llama-2-13b.Q4_K_M.gguf) to your system and save it within the Question-Order-Bias-in-LLMs directory within the 'Models/' subdirectory.
