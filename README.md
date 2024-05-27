@@ -24,6 +24,7 @@ Question order bias is a well-documented issue in survey methodology where the o
 - **Statistical Analysis**: Implementation of chi-square tests to measure the impact of question order on the probability of biased responses.
 - **Model Evaluation**: Code for running the models and analyzing their output under different test conditions.
 
+
 ## Getting Started
 
 To run this project, you will need Python 3.11 or later. Follow these steps to set up the project environment:
@@ -35,6 +36,11 @@ To run this project, you will need Python 3.11 or later. Follow these steps to s
 2. **Download the llama2-13b-chat model:**
 Please download the llama-2-13b-chat.Q4_K_M.gguf model (https://huggingface.co/TheBloke/Llama-2-13B-GGUF/blob/main/llama-2-13b.Q4_K_M.gguf) to your system and save it within the Question-Order-Bias-in-LLMs directory within the 'Models/' subdirectory.
 3. **Launch and run the jupyter notebook**
+
+
+## Dataset
+The questions used in the study can be found here: https://github.com/rkarim4/Question-Order-Bias-LLMs/blob/main/Data/dataset.xlsx 
+Original questions were acquired from the BiasMonkey dataset (https://github.com/lindiatjuatja/BiasMonkey)
 
 
 ## Contributing
