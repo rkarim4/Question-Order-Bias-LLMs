@@ -34,14 +34,11 @@ To run this project, you will need Python 3.11 or later. Follow these steps to s
    cd Question-Order-Bias-in-LLMs
    
 2. **Launch and run the jupyter notebook:**
-jupyter notebook
+```jupyter notebook
 
 
 ## Contributing
 If you're interested in contributing to this project, please fork the repository and submit a pull request with your suggested changes.
-
-## License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
 
 ## Contact
 For questions or further discussions about the project, please contact rkarim4@uic.edu.
